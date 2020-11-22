@@ -37,7 +37,7 @@
     "fetch-json": "^2.2.9",
     "he": "^1.2.0",
     "helmet": "^4.1.1",
-    "ioredis": "^4.19.1",
+    "ioredis": "^4.19.2",
     "js-base64": "^3.5.2",
     "moment": "^2.29.1",
     "moment-timezone": "^0.5.31",
