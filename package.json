@@ -20,7 +20,7 @@
   "license": "ISC",
   "dependencies": {
     "@paypal/checkout-server-sdk": "^1.0.2",
-    "@sentry/node": "^5.27.1",
+    "@sentry/node": "^5.27.2",
     "@timberio/node": "^0.35.0",
     "axios": "^0.21.0",
     "bcrypt": "^5.0.0",
