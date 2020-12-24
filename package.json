@@ -22,7 +22,7 @@
     "@paypal/checkout-server-sdk": "^1.0.2",
     "@sentry/node": "^5.27.1",
     "@timberio/node": "^0.35.0",
-    "axios": "^0.21.0",
+    "axios": "^0.21.1",
     "bcrypt": "^5.0.0",
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.19.0",
